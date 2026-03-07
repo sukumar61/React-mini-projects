@@ -1,0 +1,14 @@
+button {
+  color: #ff0b37;
+  background-color: transparent;
+  border-color: #ff0b37;
+  padding: 4px 22px;
+  border-radius: 8px;
+}
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 8px;
+}
